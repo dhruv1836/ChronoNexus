@@ -1,5 +1,5 @@
 
-                                                                   **CHRONONEXUS**
+                                                         **CHRONONEXUS**
 ## Overview of the Project
 ChronoNexus is a highly advanced Project and Task Management scheduling tool. Using CLI interface, it goes beyond plain to-do lists through utilizing Directed Acyclic Graphs (DAGs) to deal with task dependencies, determine critical paths, and simulate effects of an unexpected delay throughout the entire project timeline.
 

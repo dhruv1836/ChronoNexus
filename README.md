@@ -33,7 +33,7 @@ Bash
 java Main
 
 
-**Instructions for Testing**
+## Instructions for Testing
 In order to properly check the application functionality, follow the below steps:
 
 **Test Demo Project:**
@@ -54,7 +54,7 @@ Press 8 to update task progress. Choose one of the tasks' IDs and enter a natura
 Press 6 to save the project. Exit the application, run it again, choose New Project and press 7 to load your .cnd file. Check that all tasks, their dependencies and statuses are loaded successfully.
 
 
-**Screenshots:**
+## Screenshots
 
 
 <img width="1684" height="194" alt="Screenshot 2026-09-16 181654" src="https://github.com/user-attachments/assets/e4d59a66-e81a-47c2-9f51-b0e5a5c56b29" />

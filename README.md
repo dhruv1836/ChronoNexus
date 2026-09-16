@@ -1,4 +1,5 @@
-                                                                     **CHRONONEXUS**
+
+                                                              **CHRONONEXUS**
  **Overview of the Project**
 
  
@@ -7,7 +8,7 @@ ChronoNexus is a highly advanced Project and Task Management scheduling tool. Us
  -->**Features**
 
  
--->***Intelligent Scheduling Engine:** Implements topological sorting algorithm to manage complex task dependencies and prevent impossible dependency loops (cycle detection).
+***Intelligent Scheduling Engine:** Implements topological sorting algorithm to manage complex task dependencies and prevent impossible dependency loops (cycle detection).
 
 
 ***Critical Path Calculation:** Determines the longest chain of dependent tasks and shows exactly which ones delay the whole project if behind schedule.
@@ -118,7 +119,16 @@ o Press 6 to save the project. Exit the application, run it again, choose New Pr
 
 
 
+
+
+
 <img width="1705" height="612" alt="Screenshot 2026-09-16 181825" src="https://github.com/user-attachments/assets/159d47fc-f765-4265-b82f-c215f887689e" />
+
+
+
+
+
+
 
 
 
@@ -144,6 +154,12 @@ o Press 6 to save the project. Exit the application, run it again, choose New Pr
 
 
 
+
+
+
+
+
+
 <img width="839" height="331" alt="Screenshot 2026-09-16 182225" src="https://github.com/user-attachments/assets/2c6a1c04-d968-4d21-9d95-9f093717da69" />
 
 
@@ -155,7 +171,20 @@ o Press 6 to save the project. Exit the application, run it again, choose New Pr
 
 
 
+
+
+
+
+
+
+
 <img width="1684" height="194" alt="Screenshot 2026-09-16 181654" src="https://github.com/user-attachments/assets/f00058c7-339e-460e-856d-4a64d9bd1c21" />
+
+
+
+
+
+
 
 
 

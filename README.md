@@ -26,6 +26,7 @@ ChronoNexus is a highly advanced Project and Task Management scheduling tool. Us
 ***Built-In Demo Environment:** Has a pre-loaded project to show the power of the scheduling engine right away.
 
 
+
 -->**Technologies/Tools Used**
 
 
@@ -39,6 +40,7 @@ ChronoNexus is a highly advanced Project and Task Management scheduling tool. Us
 
 
 ***Interface:** Command-Line Interface (CLI).
+
 
 
 -->**Steps to Install & Run the Project**
@@ -69,15 +71,18 @@ ChronoNexus is a highly advanced Project and Task Management scheduling tool. Us
    Bash
 
    java Main
+   
 
 
 --->**Instructions for Testing**
+
 
 
 **In order to properly check the application functionality, follow the below steps:**
 
 
 **1. Test Demo Project:**
+
 
 o At startup, press 1 to load the "AI Viva Examiner" demo project.
 
@@ -86,20 +91,24 @@ o Press 1 in the menu to ensure that the tasks are loaded with proper deadlines 
 
 **2. Test Cycle Detection (error handling):**
 
+
 o Press 3 to link tasks. Try making Task 2 dependent on Task 4 and Task 4 dependent on Task 2. The application should prevent you from doing so by warning about an impossible dependency loop.
 
 
 **3. Test Delay Simulation:**
+
 
 o Press 4 to start a delay simulation. Pick 3 (Build prototype) and set delay for 5 days. Check that the application predicts possible delays for the downstream tasks (Testing, Documentation, etc.) without implementing any changes until you approve.
 
 
 **4. Test NLP-lite parser:**
 
+
 o Press 8 to update task progress. Choose one of the tasks' IDs and enter a natural phrase like "I am about three quarters done". Ensure that the progress bar is set to 75% and the status becomes IN_PROGRESS.
 
 
 **5. Test Serialization:**
+
 
 o Press 6 to save the project. Exit the application, run it again, choose New Project and press 7 to load your .cnd file. Check that all tasks, their dependencies and statuses are loaded successfully.
 
@@ -107,6 +116,11 @@ o Press 6 to save the project. Exit the application, run it again, choose New Pr
 -->**Screenshots:**
 
 <img width="1684" height="194" alt="Screenshot 2026-09-16 181654" src="https://github.com/user-attachments/assets/e4d59a66-e81a-47c2-9f51-b0e5a5c56b29" />
+
+
+
+
+
 
 
 
@@ -139,7 +153,28 @@ o Press 6 to save the project. Exit the application, run it again, choose New Pr
 
 
 
+
+
+
+
+
+
+
+
+
 <img width="787" height="458" alt="Screenshot 2026-09-16 181939" src="https://github.com/user-attachments/assets/6fd52b55-401b-4d76-93f6-dc7d2f389a5f" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -160,7 +195,20 @@ o Press 6 to save the project. Exit the application, run it again, choose New Pr
 
 
 
+
+
+
+
+
+
 <img width="839" height="331" alt="Screenshot 2026-09-16 182225" src="https://github.com/user-attachments/assets/2c6a1c04-d968-4d21-9d95-9f093717da69" />
+
+
+
+
+
+
+
 
 
 

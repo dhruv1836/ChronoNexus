@@ -42,7 +42,7 @@ In order to properly check the application functionality, follow the below steps
 
 **Test Demo Project:**
 
-**At startup, press 1 to load the "AI Viva Examiner" demo project.**
+**At startup, press 1 to load the demo project.**
 
 * Press 1 in the menu to ensure that the tasks are loaded with proper deadlines and priorities.
 
